@@ -7,3 +7,5 @@ Then the traveler in the dark thanks you for your tiny spark. How could he see w
 go if you did not twinkle so? Twinkle, twinkle little star, how I wonder what you are.
 As your bright and tiny spark lights the traveler in the dark, though I know not what you
 are, twinkle, twinkle, little star. Twinkle, twinkle, little star, how I wonder what you are.''')
+
+print("By Taufique Ali")
