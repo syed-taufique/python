@@ -9,7 +9,7 @@ class Train:
     def Book(self,frm,to,):
         print(f"Ticket is booked in train no: {self.trainNo}from {frm}to{to}")
 
-    def getstatus(self,):
+    def getstatus(self):
         print(f"Train no: {self.trainNo} is running on time")
 
     def getfare(self,frm,to,):
